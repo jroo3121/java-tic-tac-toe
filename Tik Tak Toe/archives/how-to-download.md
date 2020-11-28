@@ -5,10 +5,7 @@ download the jar file, open your command prompt, navigate to the jar file's dire
 
 java -jar TicTacToe.jar
 
-<center>
-<p> </p>
-<p> </p>
-<p> </p>
+
 <table class="tg">
 <thead>
   <tr>
@@ -16,7 +13,6 @@ java -jar TicTacToe.jar
   </tr>
 </thead>
 </table>
-  </center>
 
 <h3><a href="https://repl.it/talk/share/Tic-Tac-Toe/82499">Play online on repl</a></h3
 
