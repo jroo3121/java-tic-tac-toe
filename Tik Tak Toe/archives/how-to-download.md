@@ -8,6 +8,13 @@ java -jar TicTacToe.jar
 <p> </p>
 <p> </p>
 <p> </p>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+</table>
 
 <h3><a href="https://repl.it/talk/share/Tic-Tac-Toe/82499">Play online on repl</a></h3
 
