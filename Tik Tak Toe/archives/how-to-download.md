@@ -9,6 +9,7 @@ java -jar TicTacToe.jar
 <table class="tg">
 <thead>
   <tr>
+    java -jar TicTacToe.jar
     <th class="tg-0pky"></th>
   </tr>
 </thead>
