@@ -2,7 +2,7 @@
 
 A java based Tic Tac Toe AI! Credit to Alex Lee, as I used a template that I made a while back thanks to a tutorial of his. 
 
-<a href="https://repl.it/talk/share/Tic-Tac-Toe/82499">Play Here</a>
+<h3><a href="https://repl.it/talk/share/Tic-Tac-Toe/82499">Play Here</a></h3>
  
 When prompted to enter a position (1-9), follow this table: 
 
@@ -28,3 +28,5 @@ When prompted to enter a position (1-9), follow this table:
   </tr>
 </tbody>
 </table>
+
+<h3><a href="https://github.com/jroo3121/java-tic-tac-toe/blob/main/Tik%20Tak%20Toe/archives/how-to-download.md">Download Here</a></h3>
