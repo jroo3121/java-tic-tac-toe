@@ -3,14 +3,10 @@
 <h3>You can play against the AI on the link provided in the README.md file, but to download and play offline,
 download the jar file, open your command prompt, navigate to the jar file's directory and use this command: </h3>
 
-java -jar TicTacToe.jar
-
-
-<table class="tg">
+<table>
 <thead>
   <tr>
-    java -jar TicTacToe.jar
-    <th class="tg-0pky"></th>
+    <th>java -jar TicTacToe.jar</th>
   </tr>
 </thead>
 </table>
